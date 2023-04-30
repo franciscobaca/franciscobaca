@@ -25,10 +25,14 @@
 ![SportPlanetDetail](SportPlanetDetail.png)
 ![SportPlanetCart](SportPlanetCart.png)
 
-
 ## • GitHub Stats •
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscobaca&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=franciscobaca&show_icons=true&theme=radical" height="150px"/>
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscobaca&show_icons=true&theme=radical" height="150px" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscobaca&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
