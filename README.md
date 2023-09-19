@@ -2,7 +2,7 @@
 
 
 <h1 align="left">Hi 👋, My name is Francisco Baca</h1>
-<h4 align="left">A dedicated Full Stack Developer graduated from Henry.</h4>
+<h4 align="left">A dedicated Full Stack Developer</h4>
 
 
 <p align="left">
